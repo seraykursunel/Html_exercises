@@ -1,1 +1,1 @@
-# Html_exercises
+https://seraykursunel.github.io/Html_exercises/
